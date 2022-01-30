@@ -49,9 +49,9 @@ const IndexPage = () => (
     </section>
 
     <section id="projects" className="projects-section bg-light">
-      `<div className="container">
+      <div className="container">
         <div className="row">
-          <h3 className="mb-5">Our Program</h3>
+          <h3 className="mb-5 px-2">Our Program</h3>
         </div>
         <div className="row align-items-center no-gutters mb-5">
           <div className="col-md-7">
@@ -126,7 +126,7 @@ const IndexPage = () => (
       </div>
     </section>
     <Subscribe />
-    <div class="photo-credit">Photo credit: <a href="https://www.flickr.com/photos/malindaratz/15189998922/">Malinda Rathnayake</a></div>
+    <div className="photo-credit">Photo credit: <a href="https://www.flickr.com/photos/malindaratz/15189998922/">Malinda Rathnayake</a></div>
     <SocialLinks />
     <Footer />
   </Layout>
