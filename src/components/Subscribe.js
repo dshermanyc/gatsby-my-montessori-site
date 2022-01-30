@@ -1,4 +1,6 @@
 import React from 'react';
+import config from '../../config';
+const mailto = "MAILTO:" + config.email;
 
 export default function Subscribe() {
   return (
@@ -7,9 +9,9 @@ export default function Subscribe() {
         <div className="row">
           <div className="col-md-10 col-lg-8 mx-auto text-center">
             <i className="far fa-paper-plane fa-2x mb-2 text-white"></i>
-            <h2 className="text-white mb-5">Subscribe to receive updates!</h2>
+            <h2 className="text-white mb-5">Contact us</h2>
 
-            <form className="form-inline d-flex">
+            <form className="form-inline d-flex" action={mailto}>
               <input
                 type="email"
                 className="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0"
@@ -17,7 +19,7 @@ export default function Subscribe() {
                 placeholder="Enter email address..."
               />
               <button type="submit" className="btn btn-primary mx-auto">
-                Subscribe
+                Contact
               </button>
             </form>
           </div>

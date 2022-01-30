@@ -1,5 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Grayscale', // <title>
+  siteTitle: 'My Montessori', // <title>
+  siteSubtitle: '| Northern Westchester', // <subtitle>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,33 +9,17 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav Srivastava',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  heading: 'My Montessori',
+  subHeading: 'Of Northern Westchester',
 
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-linkedin-in',
-      name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
-    },
-    {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook-f',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+      url: 'https://twitter.com',
+    }
   ],
-  email: 'anubhav.srivastava00@gmail.com',
-  phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  email: 'mymontessorisba@gmail.com ',
+  address: 'Somewhere in Northern Westchester',
 };
