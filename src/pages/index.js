@@ -57,7 +57,7 @@ const IndexPage = () => (
           <div className="col-md-7">
               <h4>About The Classes</h4>
               <p>
-              My Montessori offers two classes. A Junior class which is the 1st through 3rd-grade students taught by Randa Dobrayel. A Seniors class which is the 4th through 6th-grade students taught by Deniz Soyuer. Morning instruction is done separately by class and often collectively for afternoon lessons. This method fosters a sense of community and provides mentorship experiences.
+              My Montessori offers two classes. A Juniors class which is the 1st through 3rd-grade students taught by Randa Dobrayel. A Seniors class which is the 4th through 6th-grade students taught by Deniz Soyuer. Morning instruction is done separately by class and often collectively for afternoon lessons. This method fosters a sense of community and provides mentorship experiences.
               </p>
           </div>
           <div className="col-md-1"></div>
