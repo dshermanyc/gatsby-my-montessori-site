@@ -34,9 +34,9 @@ export default function SocialLinks() {
             <div className="card py-4 h-100">
               <div className="card-body text-center">
                 <i className="fas fa-lightbulb text-primary mb-2"></i>
-                <h4 className="text-uppercase m-0">Mission</h4>
+                <h4 className="text-uppercase m-0">Motto</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50">Teach kids some stuff</div>
+                <div className="small text-black-50">Learn to be kind, curious and independent</div>
               </div>
             </div>
           </div>
