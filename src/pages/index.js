@@ -96,7 +96,7 @@ const IndexPage = () => (
         <div className="row align-items-center no-gutters mb-5">
           <div className="col-md-7">
               <h5>Randa Dobrayel - Juniors Instructor</h5>
-              <p className="text-dark mb-5">Trained at the French University of St. Joseph in Beirut, Lebanon, Randa has dedicated over 30 years to educating children at the elementary level. Randa is a patient, creative and dedicated instructor that brings out the joy and a love of learning in each student. Randa teaches French to both the Juniors and Seniors and tutors French privately. She has a degree in Pre-School and Elementary Education and is certified in both first aid and CPR. Previously, Randa taught elementary French for five years at Notre Dame des Soeurs Antonines, taught Arabic for one year in Scarsdale, and at Our Montessori for over 25 years.</p>
+              <p className="text-dark mb-5">Trained at the French University of St. Joseph in Beirut, Lebanon, Randa has dedicated over 30 years to educating children at the elementary level. Randa is a patient, creative and dedicated instructor that brings out the joy and a love of learning in each student. Randa teaches French to both the Juniors and tutors French privately. She has a degree in Pre-School and Elementary Education and is certified in both first aid and CPR. Previously, Randa taught elementary French for five years at Notre Dame des Soeurs Antonines, taught Arabic for one year in Scarsdale, and at Our Montessori for over 25 years.</p>
           </div>
           <div className="col-md-1"></div>
           <div className="col-md-4">
