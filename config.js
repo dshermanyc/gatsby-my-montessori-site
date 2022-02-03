@@ -21,5 +21,5 @@ module.exports = {
     }
   ],
   email: 'mymontessorisba@gmail.com ',
-  address: 'Somewhere in Northern Westchester',
+  address: 'Yorktown Heights, NY',
 };

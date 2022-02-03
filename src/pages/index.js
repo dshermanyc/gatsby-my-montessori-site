@@ -13,8 +13,10 @@ import ipad from '../assets/images/color-penicils.png';
 import demoImage1 from '../assets/images/demo-image-01.jpg';
 import demoImage2 from '../assets/images/demo-image-02.jpg';
 import bgMaster from '../assets/images/bg-masthead.jpg';
+import mathBeads from '../assets/images/math-beads.jpg';
 import randa from '../assets/images/randa.jpg';
 import deniz from '../assets/images/deniz.jpg';
+import melloTower from '../assets/images/mello-bridge';
 
 const IndexPage = () => (
   <Layout>
@@ -63,7 +65,7 @@ const IndexPage = () => (
           <div className="col-md-1"></div>
           <div className="col-md-4">
             <div className="featured-text text-center text-lg-left">
-              <img className="img-fluid mb-3 mb-lg-0" src={bgMaster} alt="" />
+              <img className="img-fluid mb-3 mb-lg-0" src={mathBeads} alt="" />
             </div>
           </div>
         </div>
@@ -81,7 +83,7 @@ const IndexPage = () => (
           <div className="col-md-1"></div>
           <div className="col-md-4">
             <div className="featured-text text-center text-lg-left">
-              <img className="img-fluid mb-3 mb-lg-0" src={bgMaster} alt="" />
+              <img className="img-fluid mb-3 mb-lg-0" src={melloTower} alt="" />
               
             </div>
           </div>
