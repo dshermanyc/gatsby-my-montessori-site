@@ -16,7 +16,7 @@ import bgMaster from '../assets/images/bg-masthead.jpg';
 import mathBeads from '../assets/images/math-beads.jpg';
 import randa from '../assets/images/randa.jpg';
 import deniz from '../assets/images/deniz.jpg';
-import melloTower from '../assets/images/mello-bridge';
+import melloTower from '../assets/images/mello-bridge.jpg';
 
 const IndexPage = () => (
   <Layout>
