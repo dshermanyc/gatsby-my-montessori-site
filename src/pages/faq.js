@@ -123,34 +123,6 @@ const IndexPage = () => (
 
       </div>
     </section>
-    <section id="faq" className="pb-5 bg-light">
-      <div className="container">
-        <h3 className='py-5'>FAQs</h3>
-        <h4>Why do I have to file homeschool paperwork for my district?</h4>
-        <p>As are a parent/caregiver and tutor-run learning group, we are not a formal school. Thus, each family must file a request to homeschool their child depending on their district’s directives (contact your local district for more information). In most cases, a letter requesting homeschool is required before the start of the school year as well as a curriculum plan. Former families and tutors will help new families with their curriculum planning. Families are also required to submit quarterly reports of the process to their district. These are created as a group each quarter. Tutors, in-classroom parents, and families help to organize what is needed for these reports to cover academic requirements within most districts.</p>
-        <h4>Why a co-op?</h4>
-        <p>We decided to run a co-op to provide a manageable degree of family involvement and keep costs down. This means that parent involvement in extracurricular activities and administrative work keeps our costs down as we provide our time with students on a voluntary basis. If it happens we don’t have a parent/family member that can provide specialized assistance, then a contract employee is hired to cover that activity (such as gym, music, etc…).</p>
-        <h4>Do you have field trips?</h4>
-        <p>Yes! We have a dedicated group of parents each year that organize local educational excursions to various places in the area. As we are not a formal school, assistance with transportation is always appreciated. If you are reading this - maybe you would like to volunteer?</p>
-        <h4>Is lunch provided?</h4>
-        <p>Students bring their own lunch each day. Families can also pack a snack for students as there is dedicated time for this as well. There are occasionally special treats for holiday celebrations.</p>
-        <h4>What is a typical school calendar?</h4>
-        <p>We tend to follow a calendar similar to most public schools for most major federal holidays. However, we do start later in September and end earlier in June as the requirement for contact hours for homeschool is less than public school hours. We also have two-week-long breaks during the spring semester that at times are not the same as most local districts.</p>
-        <h4>What is your snow day policy?</h4>
-        <p>For ease in decision making, we follow the Yorktown school district’s decisions on school cancellations. </p>
-        <h4>What is your COVID policy?</h4>
-        <p>We follow current CDC directives. We ask that children are masked if that is recommended and maintain space inside the classroom while having meals. As we have small numbers, we feel more confident in our safety. </p>
-        <h4>What is your vaccine health policy? </h4>
-        <p>We strongly encourage any family wishing to join our group to obtain a vaccination for COVID-19 as well as others recommended by their family physicians.</p>
-        <h4>What supplies must I buy for my child?</h4>
-        <p>None! They are included in the yearly cost. If anything, there may be a nominal expense for field trips. </p>
-        <h4>How are school decisions made? </h4>
-        <p>We make decisions based on parent/caregiver consensus with direct input from the tutors as well as from the Sarah Beth Academy (SBA). </p>
-        <h4>What is SBA? </h4>
-        <p><a href="https://www.sarahbethacademy.com/">Sarah Beth Academy’s</a> (SBA) mission is to educate, inspire and change lives while providing an optimal safe learning environment that recognizes each child is an individual and all children need to succeed. We are a subsidiary of this homeschool co-op program with 175+ students based in Long Island. Their model has been a great example for us to reference and we hope to continue to grow with them in the future. </p>
-      </div>
-
-    </section>
     <Subscribe />
     <div className="photo-credit">Photo credit: <a href="https://www.flickr.com/photos/malindaratz/15189998922/">Malinda Rathnayake</a></div>
     <SocialLinks />

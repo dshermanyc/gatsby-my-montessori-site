@@ -87,6 +87,17 @@ export default class Header extends Component {
                 <Scroll
                   onClick={_ => this.toggleMenu(!openMenu)}
                   type="id"
+                  element="faq"
+                >
+                  <a className="nav-link" href="#faq">
+                    FAQs
+                  </a>
+                </Scroll>
+              </li>
+              <li className="nav-item">
+                <Scroll
+                  onClick={_ => this.toggleMenu(!openMenu)}
+                  type="id"
                   element="signup"
                 >
                   <a className="nav-link" href="#signup">
