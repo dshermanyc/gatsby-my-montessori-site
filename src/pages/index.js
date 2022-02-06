@@ -9,14 +9,10 @@ import SocialLinks from '../components/SocialLinks';
 import Subscribe from '../components/Subscribe';
 import Header from '../components/Header';
 
-import ipad from '../assets/images/color-penicils.png';
-import demoImage1 from '../assets/images/demo-image-01.jpg';
-import demoImage2 from '../assets/images/demo-image-02.jpg';
-import bgMaster from '../assets/images/bg-masthead.jpg';
-import mathBeads from '../assets/images/math-beads.jpg';
 import randa from '../assets/images/randa.jpg';
 import deniz from '../assets/images/deniz.jpg';
 import melloTower from '../assets/images/mello-bridge.jpg';
+import science from '../assets/images/science.jpg';
 
 const IndexPage = () => (
   <Layout>
@@ -65,7 +61,7 @@ const IndexPage = () => (
           <div className="col-md-1"></div>
           <div className="col-md-4">
             <div className="featured-text text-center text-lg-left">
-              <img className="img-fluid mb-3 mb-lg-0" src={mathBeads} alt="" />
+              <img className="img-fluid mb-3 mb-lg-0" src={science} alt="" />
             </div>
           </div>
         </div>
