@@ -69,7 +69,7 @@ const IndexPage = () => (
         <div className="row align-items-center no-gutters mb-5">
           <div className="col-md-7">
               <h4>About The Curriculum</h4>
-              <p>The tutors begin instruction Monday through Friday at 9am with pickup at 3:30pm.
+              <p>The tutors hold instruction Monday through Friday.
               </p>
               <h5>Core subjects</h5>
               <ul><li>Mathematics</li><li>Geography</li><li>Social Studies</li><li>Science</li><li>Reading/English Language</li><li>Physical Education - twice weekly with a rotation of parent instructors</li><li>Second language - French</li></ul>
