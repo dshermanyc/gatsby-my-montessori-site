@@ -24,8 +24,9 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Grayscale' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'My Montessori, a homeschool co-op in northern Westchester, ny' },
+                { name: 'keywords', content: 'homeschool co-op, montessori, westchester, ny' },
+                { name: 'og:image', content: 'https://mymontessori.gatsbyjs.io/static/class-circle2-391c05c6953c09620e5fc9e0b1b2cfef.jpg' },
               ]}
             >
               <html lang="en" />
